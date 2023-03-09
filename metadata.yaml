@@ -1,0 +1,45 @@
+_repo: Caprice_70073
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: John, Augustus
+    alias: John, Augustus Edwin
+    birthdate: 1878
+    deathdate: 1961
+    gutenberg_agent_id: '50346'
+    url: http://www.gutenberg.org/2009/agents/50346
+    wikipedia: https://en.wikipedia.org/wiki/Augustus_John
+creator:
+  author:
+    agent_name: Firbank, Ronald
+    alias: Firbank, Arthur Annesley Ronald
+    birthdate: 1886
+    deathdate: 1926
+    gutenberg_agent_id: '50114'
+    url: http://www.gutenberg.org/2009/agents/50114
+    wikipedia: https://en.wikipedia.org/wiki/Ronald_Firbank
+description: ''
+gutenberg_issued: '2023-02-19'
+identifiers:
+  gutenberg: '70073'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/njp.32101068598174
+pgterms:marc905: 20210411104946firbank
+pgterms:marc906: '1917'
+pgterms:marc907: GB
+production_note: Tim Lindell, Barry Abrahamsen, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited Kingdom :$bGrant Richards, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Theater -- Fiction'
+- !lcsh 'English fiction -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: Caprice
+url: http://www.gutenberg.org/ebooks/70073
