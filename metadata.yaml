@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '50346'
     url: http://www.gutenberg.org/2009/agents/50346
     wikipedia: https://en.wikipedia.org/wiki/Augustus_John
+covers:
+- cover_type: archival
+  image_path: 70073-h/images/cover.jpg
 creator:
   author:
     agent_name: Firbank, Ronald
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50114
     wikipedia: https://en.wikipedia.org/wiki/Ronald_Firbank
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70073#Caprice
 gutenberg_issued: '2023-02-19'
 identifiers:
   gutenberg: '70073'
